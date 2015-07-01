@@ -13,5 +13,6 @@ class Footman < Unit
       super(60, 10)
     end
     
+    
 
 end
